@@ -6,6 +6,9 @@ a=500
 b=4500
 print (a+b) 
 
+print (a*b)
+
+
 
 
 
